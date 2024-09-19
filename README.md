@@ -1,2 +1,2 @@
 # amezon-clone
-fy first front end clone project, using thml and css
+My first front end clone project, using thml and css
